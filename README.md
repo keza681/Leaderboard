@@ -10,6 +10,21 @@ The Leaderboard website displays scores submitted by different players. It also 
 - JAVASCRIPT
 - WEBPACK
 
+## Getting Started
+**step1** cloning the project: In your computer, go in the terminal and type
+```
+git clone https://github.com/keza681/LDboard.git 
+```
+**step2** build the project:
+```
+npm install : to install all the dependencies and dev dependencies. 
+npm run build 
+```
+**step3** Development:
+```
+npm install --save-dev webpack-dev-server
+npm start : to run the project locally  
+```
 
 ## Authors
 

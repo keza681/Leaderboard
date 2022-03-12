@@ -1,4 +1,3 @@
-/* eslint-disable linebreak-style */
 import './style.css';
 import { postData, getData } from './modules/fetch.js';
 
